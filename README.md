@@ -1,6 +1,6 @@
-# PearlHacks 2025 Frontend
+# PearlHacks 2026 Frontend
 
-This repository contains the frontend code for the Pearl Hacks 2025 website.
+This repository contains the frontend code for the Pearl Hacks 2026 website.
 
 ## Tech Stack
 
